@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="VerifyTextInputLayout">
+        <attr name="shake_single_time" format="integer"/><!--抖动的单次时长-->
+        <attr name="shake_offset" format="dimension|reference"/><!--抖动的偏移距离-->
+        <attr name="shake_repeat_count" format="integer|reference"/><!--抖动次数-->
+    </declare-styleable>
+</resources>
